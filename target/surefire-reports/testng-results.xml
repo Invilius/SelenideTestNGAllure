@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="36881" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:18:25Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="36881" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:18:25Z">
+      <class name="Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test@1ef3efa8]" name="setUp" is-config="true" duration-ms="80" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createCard()[pri:0, instance:Test@1ef3efa8]" name="createCard" duration-ms="16640" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCard -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="776" started-at="2021-04-13T00:18:05Z" finished-at="2021-04-13T00:18:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginAsRegisteredUser()[pri:0, instance:Test@1ef3efa8]" name="loginAsRegisteredUser" duration-ms="8905" started-at="2021-04-13T00:18:06Z" finished-at="2021-04-13T00:18:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsRegisteredUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="730" started-at="2021-04-13T00:18:15Z" finished-at="2021-04-13T00:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openProjects()[pri:0, instance:Test@1ef3efa8]" name="openProjects" duration-ms="8880" started-at="2021-04-13T00:18:16Z" finished-at="2021-04-13T00:18:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openProjects -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="735" started-at="2021-04-13T00:18:25Z" finished-at="2021-04-13T00:18:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite1 -->
+</testng-results>

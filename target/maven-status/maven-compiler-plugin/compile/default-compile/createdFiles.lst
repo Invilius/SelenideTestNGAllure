@@ -1,0 +1,7 @@
+com\invilius\pageobject\util\UserData.class
+com\invilius\pageobject\ProjectDashboardPage.class
+com\invilius\pageobject\DashboardPage.class
+com\invilius\pageobject\IssuesPage.class
+com\invilius\pageobject\util\CardData.class
+com\invilius\pageobject\LoginPage.class
+com\invilius\pageobject\ProjectPage.class
