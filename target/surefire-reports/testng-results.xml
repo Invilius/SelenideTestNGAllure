@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="36881" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:18:25Z">
+  <suite name="Suite1" duration-ms="33924" started-at="2021-04-13T14:25:17Z" finished-at="2021-04-13T14:25:51Z">
     <groups>
     </groups>
-    <test name="Regression" duration-ms="36881" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:18:25Z">
+    <test name="Regression" duration-ms="33924" started-at="2021-04-13T14:25:17Z" finished-at="2021-04-13T14:25:51Z">
       <class name="Test">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Test@1ef3efa8]" name="setUp" is-config="true" duration-ms="80" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:17:48Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test@1ef3efa8]" name="setUp" is-config="true" duration-ms="64" started-at="2021-04-13T14:25:17Z" finished-at="2021-04-13T14:25:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="createCard()[pri:0, instance:Test@1ef3efa8]" name="createCard" duration-ms="16640" started-at="2021-04-13T00:17:48Z" finished-at="2021-04-13T00:18:05Z">
+        <test-method status="PASS" signature="createCard()[pri:0, instance:Test@1ef3efa8]" name="createCard" duration-ms="14397" started-at="2021-04-13T14:25:17Z" finished-at="2021-04-13T14:25:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createCard -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="776" started-at="2021-04-13T00:18:05Z" finished-at="2021-04-13T00:18:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="761" started-at="2021-04-13T14:25:31Z" finished-at="2021-04-13T14:25:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="loginAsRegisteredUser()[pri:0, instance:Test@1ef3efa8]" name="loginAsRegisteredUser" duration-ms="8905" started-at="2021-04-13T00:18:06Z" finished-at="2021-04-13T00:18:15Z">
+        <test-method status="PASS" signature="loginAsRegisteredUser()[pri:0, instance:Test@1ef3efa8]" name="loginAsRegisteredUser" duration-ms="7882" started-at="2021-04-13T14:25:32Z" finished-at="2021-04-13T14:25:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAsRegisteredUser -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="730" started-at="2021-04-13T00:18:15Z" finished-at="2021-04-13T00:18:16Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="684" started-at="2021-04-13T14:25:40Z" finished-at="2021-04-13T14:25:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="openProjects()[pri:0, instance:Test@1ef3efa8]" name="openProjects" duration-ms="8880" started-at="2021-04-13T00:18:16Z" finished-at="2021-04-13T00:18:25Z">
+        <test-method status="PASS" signature="openProjects()[pri:0, instance:Test@1ef3efa8]" name="openProjects" duration-ms="9317" started-at="2021-04-13T14:25:41Z" finished-at="2021-04-13T14:25:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openProjects -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="735" started-at="2021-04-13T00:18:25Z" finished-at="2021-04-13T00:18:25Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test@1ef3efa8]" name="tearDown" is-config="true" duration-ms="690" started-at="2021-04-13T14:25:50Z" finished-at="2021-04-13T14:25:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
